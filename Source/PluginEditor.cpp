@@ -291,7 +291,7 @@ void Fuzz14Editor::paint (Graphics& g)
     g.setColour (Colour (0xff888888));
     g.setFont (font (11.0f));
     g.drawText (String ("Fuzz14 v" FUZZ14_VERSION)
-                    + String (CharPointer_UTF8 ("  \xc2\xb7  Farica\xe2\x98\x86Kimora \xc2\xa9 Cursed Entertainment")),
+                    + String (CharPointer_UTF8 ("  \xc2\xb7  OctaviaVSTs \xc2\xa9 Cursed Entertainment")),
                 Rectangle<int> (skinWidth - 420, skinHeight - 18, 400, 16), Justification::centredRight);
 }
 

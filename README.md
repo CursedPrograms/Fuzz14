@@ -10,7 +10,9 @@ A VST3 plugin and standalone app (with ASIO) for Windows, for guitar or electric
 window is the schematic: the knobs sit next to the parts they belong to, and the diodes glow
 while they conduct.
 
-**Website:** https://cursedprograms.github.io/Fuzz14/ &middot; **Download:** [latest release](https://github.com/CursedPrograms/Fuzz14/releases/latest)
+**Website:** https://cursedprograms.github.io/Fuzz14/ &middot; **Download:** [Fuzz14 v0.2.0 for Windows](https://github.com/CursedPrograms/Fuzz14/releases/download/v0.2.0/Fuzz14-v0.2.0-Windows.zip) (VST3 + standalone) &middot; [release notes](https://github.com/CursedPrograms/Fuzz14/releases/tag/v0.2.0) &middot; [all releases](https://github.com/CursedPrograms/Fuzz14/releases)
+
+Part of [OctaviaVSTs](https://github.com/CursedPrograms/OctaviaVSTs), Cursed Entertainment's audio software.
 
 ![Fuzz14](images/fuzz14.png)
 
